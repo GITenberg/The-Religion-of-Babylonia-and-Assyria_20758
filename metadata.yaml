@@ -1,0 +1,29 @@
+_repo: The-Religion-of-Babylonia-and-Assyria_20758
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jastrow, Morris
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '8227'
+    url: http://www.gutenberg.org/2009/agents/8227
+    wikipedia: http://en.wikipedia.org/wiki/Morris_Jastrow,_Jr.
+description: ''
+gutenberg_issued: '2007-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cults -- Assyro-Babylonian'
+- !lcsh 'Omens'
+- !lcc 'BL'
+- !lcsh 'Assyro-Babylonian religion'
+title: The Religion of Babylonia and Assyria
+url: http://www.gutenberg.org/ebooks/20758
