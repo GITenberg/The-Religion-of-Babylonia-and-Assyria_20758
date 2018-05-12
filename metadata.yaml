@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8227
     wikipedia: http://en.wikipedia.org/wiki/Morris_Jastrow,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20758#The-Religion-of-Babylonia-and-Assyria
 gutenberg_issued: '2007-03-07'
 gutenberg_type: Text
 identifiers:
